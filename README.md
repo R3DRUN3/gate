@@ -51,6 +51,6 @@ Runtime in seconds:  6.238812893
 
 
 ## Usage with Docker
-Follow the Docs [here](https://hub.docker.com/repository/docker/R3DRUN3/gate) on DockerHub
+Follow the Docs [here](https://hub.docker.com/repository/docker/r3drun3/gate) on DockerHub
 
 
