@@ -8,20 +8,20 @@
 
 Clone this repo:
 
-```bash
+```sh
 git clone https://github.com/R3DRUN3/gate.git
 ```
 
 Start the program:
 
-```bash
+```sh
 cd gate
 go run main.go
 ```
 
 Output Sample: 
 
-```bash
+```console
    __   ____      _      _____   _____  __
   / /  / ___|    / \    |_   _| | ____| \ \
  | |  | |  _    / _ \     | |   |  _|    | |
