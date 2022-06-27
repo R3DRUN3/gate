@@ -1,4 +1,6 @@
 # Gate 🔎🚪
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 *Gate* is a simple and fast port scanner powered by *Go* 
 
